@@ -8,11 +8,11 @@
 		<version>2.3.12.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.7practice</groupId>
-	<artifactId>practice</artifactId>
+	<groupId>com.NginxManager</groupId>
+	<artifactId>NginxManager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>practice</name>
-	<description>practice project for Spring Boot</description>
+	<name>NginxManager</name>
+	<description>a NginxManage server</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
